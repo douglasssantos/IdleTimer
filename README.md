@@ -26,3 +26,6 @@ Timer.cleanUp();// apos chamado o methodo é realizado uma limpeza no timer e ge
 # Se quiser limpar todos os cookies salvos no navegador.
 
 Timer.cleanCookies();
+
+
+# Created by Douglas S. Santos
