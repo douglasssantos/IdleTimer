@@ -1,3 +1,8 @@
+/*
+* 
+* Created by Douglas S. Santos
+* e-mail: douglassantos2127@gmail.com
+* */
 class IdleTimer {
   #timeInterval = 5000;
   #setTimeOut = 300;
