@@ -3,7 +3,7 @@
 Classe criada em Javascript para validar o tempo ocioso do site e disparar ação personalizada.
 
 
-# Exemplo:
+#Exemplo:
 
 const Timer = new idleTimer({
   timeOutInSeconds: 30,
@@ -18,7 +18,7 @@ const Timer = new idleTimer({
 
 # Se quiser tambem pode limpar o time manualmente
 
-# exemplo: 
+#Exemplo: 
 
 Timer.cleanUp();// apos chamado o methodo é realizado uma limpeza no timer e gerado um refresh na pagina.
 
