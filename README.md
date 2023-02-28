@@ -4,7 +4,7 @@ Classe criada em Javascript para validar o tempo ocioso do site e disparar açã
 
 
 #Exemplo:
-```
+```JavaScript
 const Timer = new idleTimer({
   timeOutInSeconds: 30,
   clearCookie: true,
